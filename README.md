@@ -35,4 +35,4 @@ vi .env
 #press and then :wq and hit enter
 
 go with security and add the inbound rule
-add the port 8501
+//add the port 8501
